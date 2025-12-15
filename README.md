@@ -74,15 +74,7 @@ npm run dev
 ```
 The frontend runs on `http://localhost:3000`.
 
-## Deployment
 
-### Backend
-- Deploy FastAPI to standard Python hosting (e.g., Railway, Render, DigitalOcean).
-- Ensure `OMDB_API_KEY` is set in production environment variables.
-
-### Frontend
-- Deploy Next.js to **Vercel** or **Netlify**.
-- Set build command to `npm run build`.
 
 ## Disclaimer
 This project is for educational purposes only. It does not host any content. All media is provided via third-party embed scripts.
