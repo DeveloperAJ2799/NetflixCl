@@ -86,3 +86,4 @@ The frontend runs on `http://localhost:3000`.
 
 ## Disclaimer
 This project is for educational purposes only. It does not host any content. All media is provided via third-party embed scripts.
+# NetflixCl
